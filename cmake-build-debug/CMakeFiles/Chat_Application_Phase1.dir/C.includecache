@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alin2/Desktop/Chat Application Phase1 V2/cJSON_Mine.c
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+cJSON_Mine.h
+C:/Users/alin2/Desktop/Chat Application Phase1 V2/cJSON_Mine.h
+
+C:/Users/alin2/Desktop/Chat Application Phase1 V2/cJSON_Mine.h
+string.h
+-
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+
+C:/Users/alin2/Desktop/Chat Application Phase1 V2/main.c
+stdio.h
+-
+winsock2.h
+-
+windows.h
+-
+cJSON_Mine.c
+C:/Users/alin2/Desktop/Chat Application Phase1 V2/cJSON_Mine.c
+string.h
+-
+conio.h
+-
+stdbool.h
+-
+
